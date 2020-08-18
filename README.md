@@ -1,23 +1,13 @@
-### Hi there im Ygor👋
+👋
 
 <!--
 **YgorSansone/YgorSansone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! 👋
 
-Here are some ideas to get you started:
+Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passionate about the most captivating technologies o **Web e Mobile** development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Olá!
-Im **Ygor Sansone**, sou estudante de **Engenharia de computação** e apaixonado pelas mais cativantes tecnologias do desenvolvimento **Web e Mobile**.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
+
 ![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
 
 <hr style="border: 1px solid gray"> </hr>
