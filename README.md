@@ -1,6 +1,6 @@
 
 ### Hi there :wink:
-Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passionate about the most captivating technologies o **Web e Mobile** development.
+Im **Ygor Sansone**, I am a student of **Computer engineering** and passionate about the most captivating technologies o **Web and Mobile** development.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
 ![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
@@ -27,7 +27,7 @@ Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passio
 
 <hr style="border: 1px solid gray"> </hr>
 
-### :pushpin: Cursos
+### :pushpin: Courses
 - Machine Learning
 - Design Patterns
 - Flutter
