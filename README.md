@@ -27,7 +27,7 @@ Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passio
 [![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-4557f8?logo=DigitalOcean&logoColor=white&link=https://www.digitalocean.com/)](https://www.digitalocean.com/)
 
 <hr style="border: 1px solid gray"> </hr>
-### Cursos
+###  Cursos
 
 ### :pushpin: Interesses
 - Machine Learning
