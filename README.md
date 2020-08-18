@@ -3,7 +3,6 @@
 Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passionate about the most captivating technologies o **Web e Mobile** development.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
-
 ![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
 
 <hr style="border: 1px solid gray"> </hr>
@@ -21,15 +20,14 @@ Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passio
 
 <hr style="border: 1px solid gray"> </hr>
 
-### :wrench: Ferramentas
+### :wrench: Tools
 [![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![OS Linux](https://img.shields.io/badge/-OS_Linux-ffa62a?logo=Linux&logoColor=white&link=https://getfedora.org/)](https://getfedora.org/)
 [![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-4557f8?logo=DigitalOcean&logoColor=white&link=https://www.digitalocean.com/)](https://www.digitalocean.com/)
 
 <hr style="border: 1px solid gray"> </hr>
-###  Cursos
 
-### :pushpin: Interesses
+### :pushpin: Cursos
 - Machine Learning
 - Design Patterns
 - Flutter
