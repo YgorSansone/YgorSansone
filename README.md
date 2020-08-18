@@ -1,9 +1,5 @@
-👋
 
-<!--
-**YgorSansone/YgorSansone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there! 👋
-
+### Hi there :wink:
 Im **Ygor Sansone**, I am a student of **Engenharia de computação** and passionate about the most captivating technologies o **Web e Mobile** development.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
