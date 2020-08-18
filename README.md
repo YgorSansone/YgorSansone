@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Linkedin](https://www.linkedin.com/in/ygorsansone/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
 ![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
 
 <hr style="border: 1px solid gray"> </hr>
