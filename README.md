@@ -14,26 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Olá, que bom que está aqui!
-Me chamo **Jimmy Bastos**, sou formado em **Análise e Desenvolvimento de Sistemas** e apaixonado pelas mais cativantes tecnologias do desenvolvimento **Web e Mobile**.
 
-Minha jornada na programação começou em 2016, e até então, tive a oportunidade de trabalhar em todas as etapas da construção de Web Apps, desde a identificação dos requisitos, modelagem do banco de dados, design, construção das APIs, até a  implantação e integração com parceiros.
 
-No meu tempo livre, tenho me dedicado a [Comunidade Espartana](https://spartandev.com.br), no intuito de compartilhar conteúdos sobre Desenvolvimento Web e Mobile, UX Design,  Marketing Pessoal, Produtividade, Estilo de Vida e todos os sub-assuntos relacionados a isso.
-
-Além do mais, gosto muito de fazer novas amizades, e você?  
-
-Então... Que tal me adicionar nas redes sociais?
-
-Fique a vontade pra me chamar no direct ou enviar e-mail, tenho certeza que podemos trocar experiências e aprender muito juntos!
-
-Não precisa ter vergonha! Vou ficar esperando sua mensagem :wink:
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jimmybastos/)](https://www.linkedin.com/in/jimmybastos/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/spartan.dev/)](https://www.instagram.com/spartan.dev/)
-[![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:jimmy@spartandev.com.br)](mailto:jimmy@spartandev.com.br)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-2e2e2e?logo=Gitlab&logoColor=white&link=https://gitlab.com/jimmybastos)](https://gitlab.com/jimmybastos)
-![GitHub](https://img.shields.io/github/followers/JimmyBastos?label=Seguir&style=social&logo=github)
+[![Linkedin](https://www.linkedin.com/in/ygorsansone/)
+![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
 
 <hr style="border: 1px solid gray"> </hr>
 
@@ -65,15 +49,6 @@ Não precisa ter vergonha! Vou ficar esperando sua mensagem :wink:
 [![Webpack](https://img.shields.io/badge/-Webpack-3066bc?logo=webpack&Color=white&link=https://webpack.js.org/)](https://webpack.js.org/)
 [![ESLint](https://img.shields.io/badge/-ESLint-5900ce?logo=eslint&Color=white&link=https://eslint.org/)](https://eslint.org/)
 [![Standard JS](https://img.shields.io/badge/-Standard-000?logo=JavaScript&Color=white&link=https://standardjs.com/)](https://standardjs.com/)
-
-<!-- 
-### Projetos
-<hr style="border: 1px solid gray"> </hr>
-
-### :mortar_board: Formação
-#### Instituto Federal de Educação, Ciência e Tecnologia da Bahia - *IFBA*
-_Análise e Desenvolvimento de Sistemas | Mar. de 2015 a Jun. de 2019_   
-Análise, projeto, documentação, especificação de requisitos, testes, implementação, implantação e manutenção de sistemas computacionais.
 
 <hr style="border: 1px solid gray"> </hr>
 ### Cursos
