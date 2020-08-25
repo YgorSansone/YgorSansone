@@ -4,7 +4,7 @@ Im **Ygor Sansone**, I am a student of **Computer engineering** and passionate a
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
 ![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
-[![GitLab](https://img.shields.io/badge/-gitlab-292a61?logo=Gitlab&logoColor=white&link=https://gitlab.com/YgorSansone](https://gitlab.com/YgorSansone)
+[![GitLab](https://img.shields.io/badge/-gitlab-292a61?logo=Gitlab&logoColor=white&link=https://gitlab.com/YgorSansone)](https://gitlab.com/YgorSansone)
 
 <hr style="border: 1px solid gray"> </hr>
 
