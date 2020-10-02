@@ -3,7 +3,7 @@
 Im **Ygor Sansone**, I am a student of **Computer engineering** and passionate about the most captivating technologies o **Web and Mobile** development.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
-![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github)
+[![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github&link=https://github.com/login?return_to=%2FYgorSansone)](https://github.com/login?return_to=%2FYgorSansone)
 [![GitLab](https://img.shields.io/badge/-gitlab-292a61?logo=Gitlab&logoColor=white&link=https://gitlab.com/YgorSansone)](https://gitlab.com/YgorSansone)
 
 <hr style="border: 1px solid gray"> </hr>
