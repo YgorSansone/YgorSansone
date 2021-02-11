@@ -29,9 +29,6 @@ Im **Ygor Sansone**, I am a student of **Computer engineering** and passionate a
 
 <hr style="border: 1px solid gray"> </hr>
 
-### :pushpin: Courses [![Udemy](https://img.shields.io/badge/-Udemy-c6c4bb?logo=udemy&logoColor=ea5252&link=https://www.udemy.com/)](https://www.udemy.com/)
-- Machine Learning
-- Design Patterns
-- Flutter
-- API
--->
+### :pushpin: Info
+[![Ygor's github stats](https://github-readme-stats.vercel.app/api?username=YgorSansone&show_icons=true&theme=dark)](https://github.com/YgorSansone)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorSansone&layout=compact&theme=dark)](https://github.com/YgorSansone/)
