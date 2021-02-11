@@ -26,6 +26,8 @@ Im **Ygor Sansone**, I am a student of **Computer engineering** and passionate a
 [![OS Linux](https://img.shields.io/badge/-OS_Linux-651f46?logo=Linux&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
 [![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-4557f8?logo=DigitalOcean&logoColor=white&link=https://www.digitalocean.com/)](https://www.digitalocean.com/)
 [![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&link=https://unity.com/pt)](https://unity.com/pt)
+[![Firebase](https://img.shields.io/badge/-Firebase-202124?logo=firebase&logoColor=fcca30&link=https://firebase.google.com/)](https://firebase.google.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon&logoColor=ec912e&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
 
 <hr style="border: 1px solid gray"> </hr>
 
