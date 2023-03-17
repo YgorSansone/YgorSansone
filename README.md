@@ -1,6 +1,6 @@
 
 ### Hi there :wink:
-Im **Ygor Sansone**, I am a student of **Computer engineering** and passionate about the most captivating technologies o **Web and Mobile** development.
+Im **Ygor Sansone**, I am a **Computer engineering** and passionate about the most captivating technologies o **Web and Mobile** development.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
 [![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github&link=https://github.com/login?return_to=%2FYgorSansone)](https://github.com/login?return_to=%2FYgorSansone)
