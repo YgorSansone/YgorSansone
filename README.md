@@ -1,36 +1,26 @@
+# [Oi, Hello, Hola!] [Eu sou o Ygor Sansone] 👋👋👋 
+<a href="https://www.linkedin.com/in/ygor-prudente-sansone"><img align="left" width="30%" src="https://media.licdn.com/dms/image/D4D03AQG7Tmut2nVUiw/profile-displayphoto-shrink_800_800/0/1718226281578?e=1726704000&v=beta&t=jdhTISgq1ZxAkTTbRmAEqNIvLAe63nszp13u1PYN6bk"></a>
 
-### Hi there :wink:
-Im **Ygor Sansone**, I am a **Computer engineering** and passionate about the most captivating technologies o **Web and Mobile** development.
+<samp>
+👨‍💻 Sou um Senior Software Engineer na Zup, subsidiária do Banco Itaú
+<br>
+🚀 Especialista em Backend com Python, Java e Node.js
+<br>
+🌟 Trabalho com arquitetura de microsserviços, NLP e Inteligência Artificial
+<br>
+☁️ Certificado pela AWS
+<br>
+📚 Apaixonado por aprender e compartilhar conhecimento
+<br>
+💻 Atuando como Tech Lead
+<br>
+</samp>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygorsansone/)](https://www.linkedin.com/in/ygorsansone/)
-[![GitHub](https://img.shields.io/github/followers/YgorSansone?label=Seguir&style=social&logo=github&link=https://github.com/login?return_to=%2FYgorSansone)](https://github.com/login?return_to=%2FYgorSansone)
-[![GitLab](https://img.shields.io/badge/-gitlab-292a61?logo=Gitlab&logoColor=white&link=https://gitlab.com/YgorSansone)](https://gitlab.com/YgorSansone)
+<hr>
+<div>
+  Vamos conversar sobre desenvolvimento de software, Python e algoritmos:
+<br><br>
 
-<hr style="border: 1px solid gray"> </hr>
-
-### :zap: Stack
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&link=https://github.com/YgorSansone/Vigas)](https://github.com/YgorSansone/Vigas)
-[![Flutter](https://img.shields.io/badge/-Flutter-007ACC?logo=Flutter&logoColor=4cd1fc&link=https://github.com/YgorSansone/Flutter-apps)](https://github.com/YgorSansone/Flutter-apps)
-[![Java](https://img.shields.io/badge/-Java-e90101?logo=Java&logoColor=white&link=https://github.com/YgorSansone/Truco_IA)](https://github.com/YgorSansone/Truco_IA)
-[![Python](https://img.shields.io/badge/-Python-1e415e?logo=Python&logoColor=ffdd54&link=https://github.com/YgorSansone/react_api)](https://github.com/YgorSansone/react_api)
-[![Node.js](https://img.shields.io/badge/-Node.js-67a05b?logo=Node.js&logoColor=ffffff&link=https://github.com/YgorSansone/Drone-REST-API)](https://github.com/YgorSansone/Drone-REST-API)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&link=https://github.com/YgorSansone/Pief-3)](https://github.com/YgorSansone/Pief-3)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=Android&logoColor=white&link=https://github.com/YgorSansone/Pief-3)](https://github.com/YgorSansone/Pief-3)
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&link=https://github.com/YgorSansone/cubo)](https://github.com/YgorSansone/cubo)
-[![PHP](https://img.shields.io/badge/-PHP-8892bf?logo=php&logoColor=22242f&link=https://github.com/YgorSansone/SITES)](https://github.com/YgorSansone/SITES)
-
-<hr style="border: 1px solid gray"> </hr>
-
-### :wrench: Tools
-[![Git](https://img.shields.io/badge/-Git-f1361f?logo=Git&logoColor=white&link=https://github.com/YgorSansone)](https://github.com/YgorSansone)
-[![OS Linux](https://img.shields.io/badge/-OS_Linux-651f46?logo=Linux&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
-[![Digital Ocean](https://img.shields.io/badge/-Digital_Ocean-4557f8?logo=DigitalOcean&logoColor=white&link=https://www.digitalocean.com/)](https://www.digitalocean.com/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&link=https://unity.com/pt)](https://unity.com/pt)
-[![Firebase](https://img.shields.io/badge/-Firebase-202124?logo=firebase&logoColor=fcca30&link=https://firebase.google.com/)](https://firebase.google.com/)
-[![AWS](https://img.shields.io/badge/-AWS-232f3e?logo=amazon&logoColor=ec912e&link=https://aws.amazon.com/pt/)](https://aws.amazon.com/pt/)
-
-<hr style="border: 1px solid gray"> </hr>
-
-### :pushpin: Info
-[![Ygor's github stats](https://github-readme-stats.vercel.app/api?username=YgorSansone&show_icons=true&theme=dark)](https://github.com/YgorSansone)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorSansone&layout=compact&theme=dark)](https://github.com/YgorSansone/)
+  <a href="https://www.linkedin.com/in/ygor-prudente-sansone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
